@@ -18,7 +18,7 @@ class ContactsPageView(TemplateView):
 
 
 class DocSitePageView(TemplateView):
-    template_name = "mainapp/doc_site.html" 
+    template_name = "mainapp/doc_site.html"
 
 
 class LoginPageView(TemplateView):
